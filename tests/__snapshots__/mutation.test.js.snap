@@ -1,17 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`queries feed 1`] = `
+exports[`mutations createPost 1`] = `
 Object {
   "data": Object {
-    "feed": Array [
-      Object {
-        "createdAt": "12345839",
-        "id": "1",
-        "likes": 20,
-        "message": "hello",
-        "views": 300,
-      },
-    ],
+    "createPost": Object {
+      "message": "hello",
+    },
   },
   "errors": undefined,
   "extensions": undefined,

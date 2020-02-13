@@ -8,8 +8,165 @@
       "avatar": "http",
       "createdAt": 1571213104370,
       "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "master@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581366926730,
+      "id": "SA28VhcWQ_iV5bmqd1rLd"
+    },
+    {
+      "email": "member@code.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581369068445,
+      "id": "zxV6JS_tnPfqsaMf8HgFV"
+    },
+    {
+      "email": "test@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581371238187,
+      "id": "JBtOFD0f5Tej1ns-QzRSP"
+    },
+    {
+      "email": "testing@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581371316415,
+      "id": "gTk5XLkcxE-3p7IRcEE6H"
+    },
+    {
+      "email": "tester@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581371525834,
+      "id": "QeI_KHAqeuyB9lhtIF36V"
+    },
+    {
+      "email": "boop@code.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581371627638,
+      "id": "tNKWXynhr1IMY8ndcA-Xp"
+    },
+    {
+      "email": "mastering@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581371912493,
+      "id": "lt4LyjBMZZwAE9UYBpXOM"
+    },
+    {
+      "email": "masterinig@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581372009411,
+      "id": "ZJHIyi5Db4NxUN6PwGB1K"
+    },
+    {
+      "email": "masteriinig@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581372067692,
+      "id": "_3WjzXgqf-HEgMfazRFSK"
+    },
+    {
+      "email": "master2@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581444036388,
+      "id": "ByCpijJuX2pwnoBZ1eSsA"
+    },
+    {
+      "email": "master3@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581444680072,
+      "id": "65-rsfLR_TNKuzuoQN-mm"
+    },
+    {
+      "email": "master4@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581445110868,
+      "id": "lQGdw6UPAdfqjXiuN8t66"
+    },
+    {
+      "email": "hello@yo.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581460502481,
+      "id": "MHXq5KSHFpLnaxd96SeOS"
+    },
+    {
+      "email": "heloooo@yo.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581529588117,
+      "id": "SBUC57HzZl6TZSGipaVRJ"
+    },
+    {
+      "email": "h@h.com",
+      "password": "pass",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581606511387,
+      "id": "Vz-FoM3uS4LY51PHSv0j2"
+    },
+    {
+      "email": "yoyoyo@h.com",
+      "password": "passy",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1581606663268,
+      "id": "NGIL784B-pUo4F4Gw6C24"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "message": "Hello there!",
+      "author": "MHXq5KSHFpLnaxd96SeOS",
+      "createdAt": 1581460759762,
+      "id": "KU0kQkXEI82P_AdkmhozN"
+    },
+    {
+      "message": "yep!",
+      "author": "MHXq5KSHFpLnaxd96SeOS",
+      "createdAt": 1581461491350,
+      "id": "dF3UOHIwG99adrrpe9cHh"
+    }
+  ],
   "settings": []
 }
